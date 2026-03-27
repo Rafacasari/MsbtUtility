@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "to-json": {
+      "commandName": "Project",
+      "commandLineArgs": "to-json --input .\\Mals\\USen.Trial.100.sarc.zs --output output"
+    }
+  }
+}
